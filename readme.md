@@ -16,3 +16,4 @@
 - [Day 2 - February 28, 2025](/days001to025/day_002.md)
 - [Day 3 - March 01, 2025](/days001to025/day_003.md)
 - [Day 4 - March 02, 2025](/days001to025/day_004.md)
+- [Day 5 - March 03, 2025](/days001to025/day_005.md)
