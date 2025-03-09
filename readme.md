@@ -22,3 +22,4 @@
 - [Day 8 - March 06, 2025](/days001to025/day_008.md)
 - [Day 9 - March 07, 2025](/days001to025/day_009.md)
 - [Day 10 - March 08, 2025](/days001to025/day_010.md)
+- [Day 11 - March 09, 2025](/days001to025/day_011.md)
