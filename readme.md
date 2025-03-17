@@ -28,3 +28,5 @@
 - [Day 14 - March 12, 2025](/days001to025/day_014.md)
 - [Day 15 - March 13, 2025](/days001to025/day_015.md)
 - [Day 16 - March 14, 2025](/days001to025/day_016.md)
+- [Day 17 - March 15, 2025](/days001to025/day_017.md)
+- [Day 18 - March 16, 2025](/days001to025/day_018.md)
