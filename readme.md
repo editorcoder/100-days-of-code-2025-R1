@@ -32,3 +32,5 @@
 - [Day 18 - March 16, 2025](/days001to025/day_018.md)
 - [Day 19 - March 17, 2025](/days001to025/day_019.md)
 - [Day 20 - March 18, 2025](/days001to025/day_020.md)
+- [Day 21 - March 19, 2025](/days001to025/day_021.md)
+- [Day 22 - March 20, 2025](/days001to025/day_022.md)
